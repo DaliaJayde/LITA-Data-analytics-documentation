@@ -9,5 +9,9 @@ Next, the instruction transitioned to SQL, where we delved into the fundamentals
 The course culminated with Power BI, a vital tool for creating interactive reports and dashboards. Students connected to diverse data sources, imported datasets, and developed comprehensive data models. They experienced the satisfaction of building dynamic visualizations that transformed their analyses into compelling narratives, fostering collaboration and feedback among peers as they shared their work.
 
 ## TOOLS USED
-Microsoft Excel
-
+- Microsoft Excel [Download Here](www.microsoft.com)
+   1. For data cleaning
+   2. For Analysis
+   3. For data visualisation
+- SQL (Structured query language) Server management studio for quering of data
+- GitHub for portfolio building
