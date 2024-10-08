@@ -1,4 +1,7 @@
 # LITA-Data-analytics-documentation
+
+### PROJECT TITLE : DATA ANALYSIS
+
 ## OVERVIEW
 ---
 In a dynamic classroom setting, a data analytics course unfolded, drawing together a group of motivated learners eager to navigate the realm of data. The curriculum focused on essential tools: Microsoft Excel, SQL, and Power BI, each integral to developing robust analytical skills.
@@ -44,3 +47,10 @@ where condition = true
 ### DATA VISUALISATIONS
 
  
+![LITA LITA](https://github.com/user-attachments/assets/5b7a2d50-27ba-45b0-b8e4-8279156cdbe1)
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
