@@ -41,5 +41,6 @@ Select * From Table1
 where condition = true
 ```
 
+### DATA VISUALISATIONS
 
   
