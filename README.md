@@ -1,4 +1,4 @@
-# LITA-Data-analytics-documentation
+[# LITA-Data-analytics-documentation
 
 ### PROJECT TITLE : DATA ANALYSIS
 
@@ -6,7 +6,7 @@
 
 [TOOLS USED](#TOOLS-USED)
 
-Data cleaning and preparation
+[Data cleaning and preparation](#Data-cleaning-and-preparation)
 
 EXPLORATORY DATA ANALYSIS
 
