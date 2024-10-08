@@ -2,6 +2,16 @@
 
 ### PROJECT TITLE : DATA ANALYSIS
 
+[OVERVIEW](OVERVIEW)
+
+TOOLS USED
+
+Data cleaning and preparation
+
+EXPLORATORY DATA ANALYSIS
+
+DATA VISUALISATIONS
+
 ## OVERVIEW
 ---
 In a dynamic classroom setting, a data analytics course unfolded, drawing together a group of motivated learners eager to navigate the realm of data. The curriculum focused on essential tools: Microsoft Excel, SQL, and Power BI, each integral to developing robust analytical skills.
